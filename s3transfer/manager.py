@@ -151,6 +151,7 @@ class TransferManager(object):
         'SSECustomerKey',
         'SSECustomerKeyMD5',
         'RequestPayer',
+        'Range',
     ]
 
     ALLOWED_UPLOAD_ARGS = [
